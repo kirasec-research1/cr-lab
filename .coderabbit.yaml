@@ -1,0 +1,11 @@
+reviews:
+  profile: assertive
+  tools:
+    eslint:
+      enabled: true
+    shellcheck:
+      enabled: true
+    markdownlint:
+      enabled: true
+    yamllint:
+      enabled: true
